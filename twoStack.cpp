@@ -7,7 +7,7 @@ class TwoStack{
     int top1;
     int top2;
     int size;
-    
+    //constructor:-
     TwoStack(int s){
         this->size = s;
         top1 = -1;
