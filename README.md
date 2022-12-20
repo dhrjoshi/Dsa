@@ -1,2 +1,2 @@
 ## Dsa
-###Posting all the important implementations in DSA.
+`Posting all the important implementations in DSA.`
